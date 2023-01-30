@@ -1,12 +1,21 @@
 header {
     background-color: aquamarine;
+    
 }
 
 .info {
     background-color: cyan;
     color: brown;
+    
 }
+
 h3 {
     background-color: black;
     color: gold;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
